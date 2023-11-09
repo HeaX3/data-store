@@ -4,7 +4,7 @@ namespace DataStores
 {
     public abstract class DataStore
     {
-        protected abstract IEnumerable<DataModule> modules { get; }
+        protected abstract IEnumerable<IDataModule> modules { get; }
 
         public void Initialize()
         {

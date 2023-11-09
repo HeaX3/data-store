@@ -1,6 +1,6 @@
 ﻿namespace DataStores
 {
-    public abstract class DataModule
+    public abstract class DataModule : IDataModule
     {
         public void Initialize()
         {
