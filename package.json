@@ -1,0 +1,16 @@
+{
+  "name": "com.heax3.data-store",
+  "version": "1.0.0",
+  "displayName": "Data Store",
+  "description": "Framework to create a persistent application data store similar to Vuex.",
+  "unity": "2022.3",
+  "unityRelease": "12f1",
+  "documentationUrl": "https://github.com/HeaX3/data-store",
+  "licensesUrl": "https://github.com/HeaX3/data-store",
+  "keywords": [],
+  "author": {
+    "name": "HeaX3",
+    "email": "heax@moonsama.com",
+    "url": "https://www.moonsama.com"
+  }
+}
