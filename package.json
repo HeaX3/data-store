@@ -1,12 +1,12 @@
 {
-  "name": "com.heax3.data-store",
+  "name": "com.heax3.data-store-unity",
   "version": "1.0.0",
   "displayName": "Data Store",
   "description": "Framework to create a persistent application data store similar to Vuex.",
   "unity": "2022.3",
   "unityRelease": "12f1",
-  "documentationUrl": "https://github.com/HeaX3/data-store",
-  "licensesUrl": "https://github.com/HeaX3/data-store",
+  "documentationUrl": "https://github.com/HeaX3/data-store-unity",
+  "licensesUrl": "https://github.com/HeaX3/data-store-unity",
   "keywords": [],
   "author": {
     "name": "HeaX3",
